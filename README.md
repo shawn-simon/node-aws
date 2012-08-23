@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/shawn-simon/node-aws.png)](http://travis-ci.org/shawn-simon/node-aws)
 # node-aws
 
 `node-aws` is an easy-to-use AWS client for node.
